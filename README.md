@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 
 ### 📈 My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwtkings&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center"> 
-  您是第  <img src="https://profile-counter.glitch.me/anran-world/count.svg" />位访问者
-</p>
